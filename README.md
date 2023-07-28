@@ -1,4 +1,4 @@
-# Food Delivery Product API
+# Food Delivery API
 
  Food Delivery Product API is a Java application built using Maven and the SpringBoot framework.
 
